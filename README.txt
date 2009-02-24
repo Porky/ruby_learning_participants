@@ -59,3 +59,5 @@ Change log:
 
 Cheers,
 ashbb (Satoshi Asakawa)
+
+24/02/2009 - Greetings from Paul Harris on Git and GitHub course (FOGGHC101-2L)
